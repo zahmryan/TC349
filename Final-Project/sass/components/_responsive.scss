@@ -1,0 +1,55 @@
+@media only screen and (max-width: 600px), only screen and (max-device-width: 600px){
+    .wrap{
+        width: 100%;
+    }
+    
+    img{
+       max-width: 100%; 
+    }
+    
+    .header_image{
+        width: 100%;
+        background-image: url("../img/1466067_625081217551649_140642633_n.jpg");
+    }
+    
+    .navigation_option{
+        width: 100%;
+    }
+    
+    .navigation{
+        width: 100%;
+    }
+    
+    .navigation_option a{
+        vertical-align: middle;
+        font-size: 150%;
+        float: left;
+        width: 100%;
+        height: 50px;
+    }
+    
+    .twitter{
+        position:absolute;
+       visibility: hidden;
+    }
+    
+    .twitter-timeline{
+        visibility:hidden;   
+    }
+    
+    .events{
+        width: 100%;    
+    }
+    
+    .footer{
+        width: 100%;
+    }
+    
+    .footer-bm{
+        width: 100%;   
+    }
+    
+    .footer-about{
+        width: 100%;   
+    }
+}
